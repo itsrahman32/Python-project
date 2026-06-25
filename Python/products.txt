@@ -1,0 +1,6 @@
+SN,Name,Brand,Quantity,Price,Country
+1,Vitamin C Serum,Garnier,218,1000,France
+2,Skin Cleanser,Cetaphil,90,280,Switzerland
+3,Sunscreen,Aqualogica,178,700,India
+4,Facewash,Dr Rashel,280,500,UAE
+5,Shampoo,Mamaearth,250,550,India
