@@ -1,0 +1,12 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# PDF files (optional)
+*.pdf
+
+# OS files
+.DS_Store
+
+# Screenshots (optional)
+*.png
